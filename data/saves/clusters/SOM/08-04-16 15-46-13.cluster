@@ -1,0 +1,34 @@
+data/sample/shapes
+14
+CLUSTER: 0
+black_square
+CLUSTER: 1
+sherif_white
+CLUSTER: 2
+octagon_black_2
+sherif_black
+octagon_black
+black_circle
+CLUSTER: 3
+black_triangle_2
+CLUSTER: 4
+octagon_white_2
+octagon_white
+CLUSTER: 5
+white_heart
+CLUSTER: 6
+black_triangle
+CLUSTER: 7
+white_triangle
+CLUSTER: 8
+white_triangle_2
+CLUSTER: 9
+star_black
+CLUSTER: 10
+white_circle
+CLUSTER: 11
+white_square
+CLUSTER: 12
+start_white
+CLUSTER: 13
+black_heart

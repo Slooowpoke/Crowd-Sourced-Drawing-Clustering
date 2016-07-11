@@ -1,0 +1,52 @@
+data/sample/shapes
+15
+Black and White
+Earth Mover's Distance
+
+CLUSTER: 0
+Octagon Black
+Octagon Black Rotated
+White Star
+Black Circle
+Black Square
+
+CLUSTER: 1
+Black Star
+Octagon White Rotated
+White Circle
+White Square
+Octagon White
+
+CLUSTER: 2
+White Hexadecagon
+
+CLUSTER: 3
+Black Heart
+White Triangle
+Black Triangle Flipped
+
+CLUSTER: 4
+Black Triangle
+White Triangle Flipped
+White Heart
+
+CLUSTER: 5
+
+CLUSTER: 6
+
+CLUSTER: 7
+
+CLUSTER: 8
+
+CLUSTER: 9
+Black Hexadecagon
+
+CLUSTER: 10
+
+CLUSTER: 11
+
+CLUSTER: 12
+
+CLUSTER: 13
+
+CLUSTER: 14

@@ -1,0 +1,73 @@
+data/sample/drawings
+14
+Black and White
+Euclidean Distance
+
+CLUSTER: 0
+Table Black Background A
+Earth B&W Black Background B
+Earth Colour Black Background B
+Earth B&W Black Background E
+Earth B&W Black Background A
+Earth B&W Black Background F
+Earth Colour Black Background C
+Earth Colour Black Background A
+Earth B&W Black Background C
+
+CLUSTER: 1
+Earth B&W Black Background D
+
+CLUSTER: 2
+Earth B&W White Background A
+Trees C
+Wellingtonboot C
+Cigarette B
+Top-Hat White Background A
+Hat White Background C
+Top-Hat White Background B
+Table White Background D
+Hat White Background A
+Earth Colour White Background A
+Trees A
+Wellingtonboot B
+Earth B&W White Background B
+Table White Background B
+Table White Background A
+Earth Outline White Background A
+Trees B
+Hat White Background B
+
+CLUSTER: 3
+Earth Colour White Background C
+Earth B&W White Background D
+
+CLUSTER: 4
+Earth Outline White Background B
+
+CLUSTER: 5
+Earth B&W White Background C
+
+CLUSTER: 6
+Artist A
+
+CLUSTER: 7
+Table White Background C
+
+CLUSTER: 8
+Wellingtonboot A
+
+CLUSTER: 9
+Earth Colour White Background B
+
+CLUSTER: 10
+Artist B
+
+CLUSTER: 11
+Table White Background F
+Table White Background E
+
+CLUSTER: 12
+Cigarette A
+
+CLUSTER: 13
+Artist C

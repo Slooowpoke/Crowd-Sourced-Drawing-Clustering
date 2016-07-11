@@ -1,0 +1,39 @@
+shapes
+10
+CLUSTER: 0
+White Triangle
+White Triangle Flipped
+
+CLUSTER: 1
+White Square
+
+CLUSTER: 2
+Black Triangle
+Black Triangle Flipped
+
+CLUSTER: 3
+White Octagon
+White Octagon Rotated
+White Circle
+
+CLUSTER: 4
+Black Octagon
+Black OctagonRotated
+Black Circle
+
+CLUSTER: 5
+Black Square
+
+CLUSTER: 6
+Black Hexadecagon
+Black Star
+
+CLUSTER: 7
+White Hexadecagon
+White Star
+
+CLUSTER: 8
+White Heart
+
+CLUSTER: 9
+Black Heart

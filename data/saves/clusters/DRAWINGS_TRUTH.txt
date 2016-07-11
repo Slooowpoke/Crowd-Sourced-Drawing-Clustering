@@ -1,0 +1,73 @@
+drawings
+14
+
+
+
+CLUSTER: 0
+Artist A
+Wellingtonboot C
+Earth Outline White Background A
+Table White Background E
+Hat White Background B
+Table White Background D
+
+CLUSTER: 1
+Artist B
+Artist C
+
+CLUSTER: 2
+Earth B&W Black Background A
+Earth B&W Black Background B
+Earth B&W Black Background C
+Earth B&W Black Background D
+Earth B&W Black Background E
+Earth B&W Black Background F
+
+CLUSTER: 3
+Earth B&W White Background A
+Earth B&W White Background B
+Earth B&W White Background C
+Earth B&W White Background D
+
+CLUSTER: 4
+Earth Colour Black Background A
+Earth Colour Black Background B
+Earth Colour Black Background C
+
+CLUSTER: 5
+Earth Colour White Background A
+Earth Colour White Background B
+Earth Colour White Background C
+
+CLUSTER: 6
+Earth Outline White Background B
+
+CLUSTER: 7
+Hat White Background A
+Hat White Background C
+
+CLUSTER: 8
+Table White Background A
+Table White Background B
+Table White Background C
+Table White Background F
+
+CLUSTER: 9
+Table Black Background A
+
+CLUSTER: 10
+Top-Hat White Background A
+Top-Hat White Background B
+
+CLUSTER: 11
+Cigarette A
+Cigarette B
+
+CLUSTER: 12
+Trees A
+Trees B
+Trees C
+
+CLUSTER: 13
+Wellingtonboot A
+Wellingtonboot B

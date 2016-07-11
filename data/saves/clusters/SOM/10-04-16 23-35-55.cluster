@@ -1,0 +1,84 @@
+MNIST
+20
+Black and White
+Euclidean Distance
+
+CLUSTER: 0
+7
+7
+
+CLUSTER: 1
+2
+
+CLUSTER: 2
+1
+1
+9
+1
+1
+1
+7
+1
+1
+
+CLUSTER: 3
+0
+0
+0
+0
+
+CLUSTER: 4
+4
+9
+4
+
+CLUSTER: 5
+4
+9
+
+CLUSTER: 6
+9
+6
+
+CLUSTER: 7
+5
+
+CLUSTER: 8
+0
+
+CLUSTER: 9
+6
+6
+
+CLUSTER: 10
+9
+4
+4
+
+CLUSTER: 11
+5
+
+CLUSTER: 12
+3
+
+CLUSTER: 13
+5
+
+CLUSTER: 14
+7
+
+CLUSTER: 15
+3
+3
+
+CLUSTER: 16
+4
+
+CLUSTER: 17
+2
+
+CLUSTER: 18
+7
+
+CLUSTER: 19
+2

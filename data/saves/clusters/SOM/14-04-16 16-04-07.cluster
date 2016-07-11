@@ -1,0 +1,50 @@
+data/sample/shapes
+14
+Black and White
+Euclidean Distance
+
+CLUSTER: 0
+Black Star
+
+CLUSTER: 1
+Octagon White Rotated
+White Circle
+Octagon White
+
+CLUSTER: 2
+Black Heart
+
+CLUSTER: 3
+White Triangle
+
+CLUSTER: 4
+Octagon Black
+Octagon Black Rotated
+Black Circle
+
+CLUSTER: 5
+Black Triangle Flipped
+
+CLUSTER: 6
+White Square
+
+CLUSTER: 7
+White Star
+
+CLUSTER: 8
+Black Triangle
+
+CLUSTER: 9
+White Triangle Flipped
+
+CLUSTER: 10
+Black Square
+
+CLUSTER: 11
+Black Hexadecagon
+
+CLUSTER: 12
+White Hexadecagon
+
+CLUSTER: 13
+White Heart
