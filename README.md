@@ -4,11 +4,15 @@ There was a previous repo which contained commits from September to March, howev
 
 The program uses Slick2D and LWJGL to run and utlise the graphics card. It also made building visual interfaces much much easier and gave more freedom and time for me to create the algorithms instead.
 
-The two clustering algorithms used are the self-organising map (SOM) created by Teuvo Kohonen and K-Means (a statistical clustering method).
+The two clustering algorithms used are the self-organising map (SOM) created by Teuvo Kohonen and K-Means (a statistical clustering method). Both algorithms have two alternative distance measures, regular euclidean distance and the earth mover's distance (although EMD seems to be very slow and perhaps I used it incorrectly).
 
 The program is also a visualiser for both clustering methods and you can view an earlier version of the visualisation <a href="">here..</a> Both sorting algorithms work well (ish) and have numerous parameters that can be adjusted from the properties files provided in /data/.
 
 I achieved <b>80/100</b> for my Viva and <b>80/100</b> for the program and report provided. To read the report <a href="http://malicoxon.co.uk/university/dissertation/Crowd-sourceddrawingclusteringandsegmentationusingNeuralComputing.pdf">click here.</a>
 
-
 During the dissertation I struggled towards the end with a final calculation, the adjusted rand index which I hope in the next coming months to implement fully and include in this repo. 
+
+##### Libraries used:
+- <a href="https://github.com/ariejan/slick2d">Slick2D</a>
+- <a href="https://github.com/LWJGL/lwjgl">LWJGL</a>
+- <a href="https://github.com/telmomenezes/JFastEMD">JFastEMD</a>
